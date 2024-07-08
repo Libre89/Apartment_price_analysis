@@ -12,6 +12,11 @@ This analysis processed a total of XXX apartments. However, some advertisements 
 
 ![Overview_of_advertised_apartments](https://github.com/Libre89/Apartment_price_analysis/assets/101059017/a8481e85-2e65-4fa2-8e48-700a0e818559)
 
+The following chart shows the number of advertised apartments in the selected locations.
+
+![Number_of_advertised_apartments_in_selected_locations](https://github.com/Libre89/Apartment_price_analysis/assets/101059017/e64e1a72-dc65-4c8f-b696-072305b1f20b)
+
+
 
 Below is a proportionate representation of apartment dispositions in the chosen cities.
 
