@@ -16,8 +16,32 @@ The following chart shows the number of advertised apartments in the selected lo
 
 ![Number_of_advertised_apartments_in_selected_locations](https://github.com/Libre89/Apartment_price_analysis/assets/101059017/e64e1a72-dc65-4c8f-b696-072305b1f20b)
 
+The next chart is a boxplot showing the distribution of apartment prices in selected locations and dispositions. This boxplot allows us to quickly compare the price spread of apartments between different locations and types of dispositions and identify any trends or deviations.
+
+![Boxplot_of_flats](https://github.com/Libre89/Apartment_price_analysis/assets/101059017/1f759a1a-6d54-44f7-88e6-7938003c3c44)
+
+The following barplot shows average house prices with a 95% confidence interval.
+
+![Barplot_of_flats](https://github.com/Libre89/Apartment_price_analysis/assets/101059017/7069252d-948d-42ce-ad79-186c3436f4be)
+
+The pointplot shows the same data as the previous boxplot, but it also shows a comparison of price growth for different apartment layouts. 
+
+![Pointplot_of_flats](https://github.com/Libre89/Apartment_price_analysis/assets/101059017/0fcbfe2b-b8b3-4dda-baa8-1dbc06a3eb6e)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+??????????
 Below is a proportionate representation of apartment dispositions in the chosen cities.
 
 GRAPH
