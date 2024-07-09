@@ -28,8 +28,7 @@ The pointplot shows the same data as the previous boxplot, but it also shows a c
 
 ![Pointplot_of_flats](https://github.com/Libre89/Apartment_price_analysis/assets/101059017/0fcbfe2b-b8b3-4dda-baa8-1dbc06a3eb6e)
 
-
-
+The following kernel density estimate (KDE) plot shows the distribution of observations in a dataset. It shows the price per square meter of housing in the selected cities.
 
 
 
