@@ -16,11 +16,9 @@ The following chart shows the number of advertised apartments in the selected lo
 
 ![Number_of_advertised_apartments_in_selected_locations](https://github.com/Libre89/Apartment_price_analysis/assets/101059017/ea151214-a2d3-4897-b9c8-f09562926cd8)
 
-
 The next chart is a boxplot showing the distribution of apartment prices in selected locations and dispositions. This boxplot allows us to quickly compare the price spread of apartments between different locations and types of dispositions and identify any trends or deviations.
 
 ![Boxplot_of_flats](https://github.com/Libre89/Apartment_price_analysis/assets/101059017/9ab6d251-6e9d-46b0-b686-995f76f1a7a5)
-
 
 The following barplot shows average house prices with a 95% confidence interval.
 
@@ -30,9 +28,9 @@ The pointplot shows the same data as the previous boxplot, but it also shows a c
 
 ![Pointplot_of_flats](https://github.com/Libre89/Apartment_price_analysis/assets/101059017/b81b90dc-8acd-4e7e-b254-ccc1fa9de57f)
 
+The following histogram with kernel density estimate (KDE) plot shows the the price per square meter of housing in the selected cities.
 
-The following kernel density estimate (KDE) plot shows the distribution of observations in a dataset. It shows the price per square meter of housing in the selected cities.
-
+![histplot_of_flats](https://github.com/Libre89/Apartment_price_analysis/assets/101059017/2747296f-2d1a-4727-9c7a-1401c3a825d8)
 
 
 
