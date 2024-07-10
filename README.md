@@ -32,20 +32,8 @@ The following histogram with kernel density estimate (KDE) plot shows the the pr
 
 ![histplot_of_flats](https://github.com/Libre89/Apartment_price_analysis/assets/101059017/2747296f-2d1a-4727-9c7a-1401c3a825d8)
 
+# Conclusion 
 
 
-
-
-
-
-
-
-
-??????????
-Below is a proportionate representation of apartment dispositions in the chosen cities.
-
-GRAPH
-
-?SUMMARY STATISTIC
 
 
