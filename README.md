@@ -10,10 +10,10 @@ This program aims to analyze the advertised prices of apartments with different 
 * 3+kk: Three rooms with a kitchenette
 
 **Cities**
-Prague: The capital and largest city of the Czech Republic
-Brno: The second-largest city and a significant cultural and economic center
-Ostrava: The third-largest city, known for its industrial background
-Olomouc: The sixth-largest city, with a rich historical and cultural heritage
+* Prague: The capital and largest city of the Czech Republic
+* Brno: The second-largest city and a significant cultural and economic center
+* Ostrava: The third-largest city, known for its industrial background
+* Olomouc: The sixth-largest city, with a rich historical and cultural heritage
 
 ## User settings
 The user can customize the analysis parameters by modifying the selection of cities and apartment dispositions. To adjust these settings, update the following variables:
