@@ -1,9 +1,25 @@
-# About the analysis of advertised apartment prices in the Czech Republic.
+# Analysis of Advertised Apartment Prices in the Czech Republic
 
-This program analyses selected dispositions of apartments in different locations. It compares the prices of apartments in Prague, Brno, Ostrava (the 3 largest cities in the Czech Republic) and Olomouc (the 6th largest city in the Czech Republic). It compares the disposition of apartments 1+kk, 2+kk and 3+kk.
+This program aims to analyze the advertised prices of apartments with different dispositions (1+kk, 2+kk, 3+kk) in the largest cities of the Czech Republic: Prague, Brno, Ostrava, and Olomouc. The analysis will provide insights into the price trends and differences across these cities.
+
+## Analysis parameters
+
+**Dispositions**
+* 1+kk: One room with a kitchenette
+* 2+kk: Two rooms with a kitchenette
+* 3+kk: Three rooms with a kitchenette
+
+**Cities**
+Prague: The capital and largest city of the Czech Republic
+Brno: The second-largest city and a significant cultural and economic center
+Ostrava: The third-largest city, known for its industrial background
+Olomouc: The sixth-largest city, with a rich historical and cultural heritage
 
 ## User settings
-The user can set their own analysis parameters. The user can change the selection of cities in the variable 'city_all' and the dispositions of the flat in the variable 'flat_type'.
+The user can customize the analysis parameters by modifying the selection of cities and apartment dispositions. To adjust these settings, update the following variables:
+
+* 'city_all': Specifies the cities to be included in the analysis.
+* 'flat_type': Specifies the apartment dispositions to be included in the analysis.
 
 # Analysis 
 The method of analyzing all available data was employed because the data set was not extensive enough to necessitate sampling. This approach ensured that the results are based on the entirety of the available information, thereby minimizing the risk of bias and providing the most accurate and comprehensive insights possible.
