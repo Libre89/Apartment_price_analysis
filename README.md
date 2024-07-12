@@ -22,7 +22,12 @@ The user can customize the analysis parameters by modifying the selection of cit
 * 'flat_type': Specifies the apartment dispositions to be included in the analysis.
 
 # Analysis 
-The method of analyzing all available data was employed because the data set was not extensive enough to necessitate sampling. This approach ensured that the results are based on the entirety of the available information, thereby minimizing the risk of bias and providing the most accurate and comprehensive insights possible.
+In this analysis, a full dataset analysis was used, examining all available data due to the dataset's manageable size, which did not necessitate sampling. This method ensures that the results are based on the entirety of the available information, thereby minimizing the risk of bias and providing the most accurate and comprehensive insights possible.
+
+A total of XXX apartments were processed. However, some advertisements did not provide the price of the property and were therefore dropped from this analysis. The number of properties analyzed and the number of incompletely advertised properties are shown below:
+
+xxx
+xxx
 
 This analysis processed a total of XXX apartments. However, some advertisements do not provide the price of the property and have therefore been excluded from this analysis. The number of properties analysed and the number of incompletely advertised properties is shown below.
 
