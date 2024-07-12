@@ -24,18 +24,22 @@ The user can customize the analysis parameters by modifying the selection of cit
 # Analysis 
 In this analysis, a full dataset analysis was used, examining all available data due to the dataset's manageable size, which did not necessitate sampling. This method ensures that the results are based on the entirety of the available information, thereby minimizing the risk of bias and providing the most accurate and comprehensive insights possible.
 
-A total of XXX apartments were processed. However, some advertisements did not provide the price of the property and were therefore dropped from this analysis. The number of properties analyzed and the number of incompletely advertised properties are shown below:
+A total of XXX apartments were processed. However, some advertisements did not provide the price of the property and were therefore dropped from this analysis. The number of properties analyzed and the number of incompletely advertised properties are shown below.
 
-xxx
-xxx
-
-This analysis processed a total of XXX apartments. However, some advertisements do not provide the price of the property and have therefore been excluded from this analysis. The number of properties analysed and the number of incompletely advertised properties is shown below.
+Number of advertisements with a price: XXX
+Number of advertisements without a price: XXX
 
 ![Overview_of_advertised_apartments](https://github.com/Libre89/Apartment_price_analysis/assets/101059017/57779619-1022-41b7-9d35-1cf321973ecb)
 
-The following chart shows the number of advertised apartments in the selected locations.
+The following chart shows the number of advertised apartments  across selected locations, categorized by apartment dispositions. Prague has the highest number of advertised apartments for all dispositions, significantly higher compared to the other cities analyzed. Notably, Ostrava, despite being the third largest city in the Czech Republic, has the fewest advertisements, particularly for 1+kk and 2+kk apartments.
 
 ![Number_of_advertised_apartments_in_selected_locations](https://github.com/Libre89/Apartment_price_analysis/assets/101059017/ea151214-a2d3-4897-b9c8-f09562926cd8)
+
+XXX
+
+RATIO POČET BYTŮ NA POČET OBYVATEL !!!
+
+XXX
 
 The next chart is a boxplot showing the distribution of apartment prices in selected locations and dispositions. This boxplot allows us to quickly compare the price spread of apartments between different locations and types of dispositions and identify any trends or deviations.
 
