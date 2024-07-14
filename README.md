@@ -52,6 +52,7 @@ The following graph is also a boxplot but excludes outliers and presents the dat
 
 The following barplot shows average house prices. This barplot includes a 95% confidence interval for each average price, indicating that 95% of the analyzed values fall within this range. This detailed view helps in understanding not only the central tendency of apartment prices in each city but also the variability.
 
+![Barplot_of_flats](https://github.com/user-attachments/assets/0c4c39ae-9714-45ee-9d23-68cc23addee2)
 
 
 
