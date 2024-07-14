@@ -48,9 +48,14 @@ The next graph is a boxplot that clearly illustrates the distribution of apartme
 
 The following graph is also a boxplot but excludes outliers and presents the data from the previous graph in more detail.
 
+![Boxplot_of_flats_no_outliers](https://github.com/user-attachments/assets/4107743f-0133-4943-8ec5-bbeb7da4340d)
+
+The following barplot shows average house prices. This barplot includes a 95% confidence interval for each average price, indicating that 95% of the analyzed values fall within this range. This detailed view helps in understanding not only the central tendency of apartment prices in each city but also the variability.
+
+
+
 
 XXX
-
 RATIO POČET BYTŮ NA POČET OBYVATEL !!!
 
 XXX
