@@ -36,6 +36,8 @@ The following chart shows the number of advertised apartments  across selected l
 
 To provide a more meaningful analysis of apartment availability, a new graph has been created which depicts the occupancy coefficient (number of availbe flat / population of the city). This coefficient is calculated by dividing the number of available apartments by the population of each city, offering a clearer picture of apartment accessibility relative to city size.
 
+The bar plot shows that Olomouc has the highest occupancy coefficients across all apartment types (1+kk, 2+kk, 3+kk), indicating better apartment availability relative to its population.
+
 * occupancy coeffcient = number of availbe flat / population of the city
 
 ![Barplot_coefficient_occupancy](https://github.com/user-attachments/assets/cd6a311e-a8f5-4cdf-9503-685180bbd75d)
