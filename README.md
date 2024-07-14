@@ -34,6 +34,13 @@ The following chart shows the number of advertised apartments  across selected l
 
 ![Number_of_advertised_apartments_in_selected_locations](https://github.com/Libre89/Apartment_price_analysis/assets/101059017/ea151214-a2d3-4897-b9c8-f09562926cd8)
 
+To provide a more meaningful analysis of apartment availability, a new graph has been created which depicts the occupancy coefficient (number of availbe flat / population of the city). This coefficient is calculated by dividing the number of available apartments by the population of each city, offering a clearer picture of apartment accessibility relative to city size.
+
+* occupancy coeffcient = number of availbe flat / population of the city
+
+![Barplot_coefficient_occupancy](https://github.com/user-attachments/assets/cd6a311e-a8f5-4cdf-9503-685180bbd75d)
+
+
 XXX
 
 RATIO POČET BYTŮ NA POČET OBYVATEL !!!
