@@ -63,20 +63,41 @@ However, comparing apartment prices based on dispositions alone does not fully c
 ![histplot_of_flats](https://github.com/user-attachments/assets/9c2defa8-d8e7-4eb6-9fa9-7754ef5b9be6)
 
 ## Summary statistic
-| City  | Flat disposition |
-| ------------- | ------------- |
-| Praha  | 1+kk  |
-| Praha  | 2+kk  |
-| Praha  | 3+kk  |
-| Brno | 1+kk  |
-| Brno  | 2+kk  |
-| Brno  | 3+kk  |
-| Ostrava | 1+kk  |
-| Ostrava  | 2+kk  |
-| Ostrava  | 3+kk  |
-| Olomouc | 1+kk  |
-| Olomouc  | 2+kk  |
-| Olomouc  | 3+kk  |
+* Price summary statistic
+* 
+|         |                  | Count | Mean | | | | |
+| City    | Flat disposition |
+| -----   | --------         |
+| Praha   | 1+kk             |
+| Praha   | 2+kk             |
+| Praha   | 3+kk             |
+| Brno    | 1+kk             |
+| Brno    | 2+kk             |
+| Brno    | 3+kk             |
+| Ostrava | 1+kk             |
+| Ostrava | 2+kk             |
+| Ostrava | 3+kk             |
+| Olomouc | 1+kk             |
+| Olomouc | 2+kk             |
+| Olomouc | 3+kk             |
+
+* Price per sq meter summary statistic
+
+|         |                  |
+| City    | Flat disposition |
+| -----   | --------         |
+| Praha   | 1+kk             |
+| Praha   | 2+kk             |
+| Praha   | 3+kk             |
+| Brno    | 1+kk             |
+| Brno    | 2+kk             |
+| Brno    | 3+kk             |
+| Ostrava | 1+kk             |
+| Ostrava | 2+kk             |
+| Ostrava | 3+kk             |
+| Olomouc | 1+kk             |
+| Olomouc | 2+kk             |
+| Olomouc | 3+kk             |
 
 XXX
 RATIO POČET BYTŮ NA POČET OBYVATEL !!!
