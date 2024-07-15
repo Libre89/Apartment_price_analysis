@@ -58,7 +58,8 @@ The pointplot shows the same data as the previous boxplot, but it also shows a c
 
 ![Pointplot_of_flats](https://github.com/user-attachments/assets/7767a186-57b4-4097-894d-d1e383dd80e2)
 
-AVŠAK POROVNÁVÁNÍ CEN BYTŮ NA ZÁKLADĚ DISPOZICE NENÍ ÚPLNĚ VHODNÉ PRO POCHOPENÍ CENOVÝCH ROZDÍLU MEZI JEDNOTLIVÝMI MĚSTY. NÁSLEDJÍCÍ HISTOGRAM S KERNEL DENSITY ESTIMATE (KDE) ukazuje ceny za m čtvereční bytu v různých městech
+However, comparing apartment prices based on dispositions alone does not fully capture the price differences between cities. The following histogram with a Kernel Density Estimate (KDE) provides a more detailed view by showing the price per square meter of apartments in various cities.
+
 
 
 
