@@ -65,9 +65,9 @@ However, comparing apartment prices based on dispositions alone does not fully c
 ## Summary statistic
 * Price summary statistic
 * 
-|         |                  | Count | Mean | | | | |
-| City    | Flat disposition |
-| -----   | --------         |
+|         |                  | count          | mean          | std       | min       | 25%        | 50%        | 75%        | max       |
+| City    | Flat disposition |                |               |           |           |            |            |            |           |
+| -----   | --------         | --------       | --------      | --------  | --------  | --------   | --------   | --------   | --------  |   
 | Praha   | 1+kk             |
 | Praha   | 2+kk             |
 | Praha   | 3+kk             |
