@@ -54,6 +54,15 @@ The following barplot shows average apartment prices. This barplot includes a 95
 
 ![Barplot_of_flats](https://github.com/user-attachments/assets/0c4c39ae-9714-45ee-9d23-68cc23addee2)
 
+The pointplot shows the same data as the previous boxplot, but it also shows a comparison of price growth for different apartment layouts. The pointplot shows a near-linear trend in apartment prices increasing with larger flat types across all cities, with a slightly steeper rise between 2+kk and 3+kk apartments in Prague.
+
+![Pointplot_of_flats](https://github.com/user-attachments/assets/7767a186-57b4-4097-894d-d1e383dd80e2)
+
+AVŠAK POROVNÁVÁNÍ CEN BYTŮ NA ZÁKLADĚ DISPOZICE NENÍ ÚPLNĚ VHODNÉ PRO POCHOPENÍ CENOVÝCH ROZDÍLU MEZI JEDNOTLIVÝMI MĚSTY. NÁSLEDJÍCÍ HISTOGRAM S KERNEL DENSITY ESTIMATE (KDE) ukazuje ceny za m čtvereční bytu v různých městech
+
+
+
+
 
 
 XXX
