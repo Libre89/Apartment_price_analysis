@@ -60,8 +60,9 @@ The pointplot shows the same data as the previous boxplot, but it also shows a c
 
 However, comparing apartment prices based on dispositions alone does not fully capture the price differences between cities. The following histogram with a Kernel Density Estimate (KDE) provides a more detailed view by showing the price per square meter of apartments in various cities.
 
+![histplot_of_flats](https://github.com/user-attachments/assets/9c2defa8-d8e7-4eb6-9fa9-7754ef5b9be6)
 
-
+## Summary
 
 
 
