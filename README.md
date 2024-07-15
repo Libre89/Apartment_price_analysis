@@ -81,6 +81,7 @@ However, comparing apartment prices based on dispositions alone does not fully c
 | Olomouc | 3+kk             | 86             | 7797458.30    | 1984240.46 |4080000    | 6705000    |7467000     |8315000     |18990000   |
 
 * Price per sq meter summary statistic
+  
 | City    | Flat disposition | Count          | Mean          | Std        | Min       | 25%        | 50%        | 75%        | Max       |
 | -----   | -----            | -----          | -----         | -----      | -----     | -----      | -----      | -----      | -----     |
 | Praha   | 1+kk             | 472            | 158316.02     | 43970.89   | 36530     | 136189     | 160500     | 178131     | 399437    |
