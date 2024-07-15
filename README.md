@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2c1217ea-657d-498f-bd06-12216b4b2afb)# Analysis of Advertised Apartment Prices in the Czech Republic
+# Analysis of Advertised Apartment Prices in the Czech Republic
 
 This program aims to analyze the advertised prices of apartments with different dispositions (1+kk, 2+kk, 3+kk) in the largest cities of the Czech Republic: Prague, Brno, Ostrava, and Olomouc. The analysis will provide insights into the price trends and differences across these cities.
 
