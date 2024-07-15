@@ -64,39 +64,21 @@ However, comparing apartment prices based on dispositions alone does not fully c
 
 ## Summary statistic
 * Price summary statistic
-* 
-|     | Flat  |                | mean          | std       | min       | 25%        | 50%        | 75%        | max       |
-| City    | Flat disposition | Count          |               |           |           |            |            |            |           |
-| Praha   | 1+kk             | x
-| Praha   | 2+kk             |
-| Praha   | 3+kk             |
-| Brno    | 1+kk             |
-| Brno    | 2+kk             |
-| Brno    | 3+kk             |
-| Ostrava | 1+kk             |
-| Ostrava | 2+kk             |
-| Ostrava | 3+kk             |
-| Olomouc | 1+kk             |
-| Olomouc | 2+kk             |
-| Olomouc | 3+kk             |
 
-* Price per sq meter summary statistic
-
-|         |                  |
-| City    | Flat disposition |
-| -----   | --------         |
-| Praha   | 1+kk             |
-| Praha   | 2+kk             |
-| Praha   | 3+kk             |
-| Brno    | 1+kk             |
-| Brno    | 2+kk             |
-| Brno    | 3+kk             |
-| Ostrava | 1+kk             |
-| Ostrava | 2+kk             |
-| Ostrava | 3+kk             |
-| Olomouc | 1+kk             |
-| Olomouc | 2+kk             |
-| Olomouc | 3+kk             |
+| City    | Flat disposition | Count          | Mean          | Std        | Min       | 25%        | 50%        | 75%        | Max       |
+| -----   | -----            | -----          | -----         | -----      | -----     | -----      | -----      | -----      | -----     |
+| Praha   | 1+kk             | 472            | 5374513.60    | 1690742.93 |1435000    | 4309420    | 5390000    |6300000     |17390000   |
+| Praha   | 2+kk             | 1020           | 7647326.82    | 3146646.58 |550000     | 6199750    | 7348700    |8590000     |52900000   |
+| Praha   | 3+kk             | 826            | 11874193.21   | 4515974.32 |1987000    | 9292500    | 11000000   |13474225    |57500000   |
+| Brno    | 1+kk             | 132            | 4339260.60    | 922916.50  |2290000    | 3699750    | 4219000    |4931635     |6990000    |
+| Brno    | 2+kk             | 173            | 6545981.99    | 1492258.44 |3675000    | 5500000    | 6390000    |7362500     |11900000   |
+| Brno    | 3+kk             | 129            | 9454796.13    | 1960506.82 |5500000    | 7990000    | 9300000    |10929000    |15100000   |
+| Ostrava | 1+kk             | 14             | 1804865.64    | 552142.84  |389120     | 1670000    | 1999000    |1999000     |2846700    |
+| Ostrava | 2+kk             | 34             | 3802867.94    | 1534555.93 |360680     | 2800000    | 3761702    |4824670     |8300000    |
+| Ostrava | 3+kk             | 65             | 5411165.53    | 3252119.84 |2390000    | 3250000    | 4250000    |6990000     |18100000   |
+| Olomouc | 1+kk             | 65             | 3430568.15    | 438650.42  |2020000    | 3150000    | 3400000    |3650000     |4490000    |
+| Olomouc | 2+kk             | 127            | 5463026.83    | 917005.06  |2780000    | 4925000    | 5390000    |5810375     |9776500    |
+| Olomouc | 3+kk             | 86             | 7797458.30    | 1984240.46 |4080000    | 6705000    |7467000     |8315000     |18990000   |
 
 XXX
 RATIO POČET BYTŮ NA POČET OBYVATEL !!!
