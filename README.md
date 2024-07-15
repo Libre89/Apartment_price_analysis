@@ -82,17 +82,17 @@ However, comparing apartment prices based on dispositions alone does not fully c
 
 * Price per sq meter summary statistic
 
-| City    | Flat disposition | Mean          | Std        | Min       | 25%        | 50%        | 75%        | Max       |
-| -----   | -----            | -----         | -----      | -----     | -----      | -----      | -----      | -----     |
-| Praha   | 1+kk             | 
-| Praha   | 2+kk             | 
-| Praha   | 3+kk             | 
-| Brno    | 1+kk             | 
-| Brno    | 2+kk             | 
-| Brno    | 3+kk             | 
-| Ostrava | 1+kk             | 
-| Ostrava | 2+kk             | 
-| Ostrava | 3+kk             | 
-| Olomouc | 1+kk             | 
-| Olomouc | 2+kk             | 
-| Olomouc | 3+kk             | 
+| City    | Flat disposition | Count          | Mean          | Std        | Min       | 25%        | 50%        | 75%        | Max       |
+| -----   | -----            | -----          | -----         | -----      | -----     | -----      | -----      | -----      | -----     |
+| Praha   | 1+kk             | 472            | 
+| Praha   | 2+kk             | 1020           | 
+| Praha   | 3+kk             | 826            | 
+| Brno    | 1+kk             | 132            | 
+| Brno    | 2+kk             | 173            | 
+| Brno    | 3+kk             | 129            | 
+| Ostrava | 1+kk             | 14             | 
+| Ostrava | 2+kk             | 34             |
+| Ostrava | 3+kk             | 65             | 
+| Olomouc | 1+kk             | 65             | 
+| Olomouc | 2+kk             | 127            | 
+| Olomouc | 3+kk             | 86             | 
