@@ -1,4 +1,4 @@
-# Analysis of Advertised Apartment Prices in the Czech Republic
+![image](https://github.com/user-attachments/assets/2c1217ea-657d-498f-bd06-12216b4b2afb)# Analysis of Advertised Apartment Prices in the Czech Republic
 
 This program aims to analyze the advertised prices of apartments with different dispositions (1+kk, 2+kk, 3+kk) in the largest cities of the Czech Republic: Prague, Brno, Ostrava, and Olomouc. The analysis will provide insights into the price trends and differences across these cities.
 
@@ -81,18 +81,17 @@ However, comparing apartment prices based on dispositions alone does not fully c
 | Olomouc | 3+kk             | 86             | 7797458.30    | 1984240.46 |4080000    | 6705000    |7467000     |8315000     |18990000   |
 
 * Price per sq meter summary statistic
-
 | City    | Flat disposition | Count          | Mean          | Std        | Min       | 25%        | 50%        | 75%        | Max       |
 | -----   | -----            | -----          | -----         | -----      | -----     | -----      | -----      | -----      | -----     |
-| Praha   | 1+kk             | 472            | 
-| Praha   | 2+kk             | 1020           | 
-| Praha   | 3+kk             | 826            | 
-| Brno    | 1+kk             | 132            | 
-| Brno    | 2+kk             | 173            | 
-| Brno    | 3+kk             | 129            | 
-| Ostrava | 1+kk             | 14             | 
-| Ostrava | 2+kk             | 34             |
-| Ostrava | 3+kk             | 65             | 
-| Olomouc | 1+kk             | 65             | 
-| Olomouc | 2+kk             | 127            | 
-| Olomouc | 3+kk             | 86             | 
+| Praha   | 1+kk             | 472            | 158316.02     | 43970.89   | 36530     | 136189     | 160500     | 178131     | 399437    |
+| Praha   | 2+kk             | 1020           | 142476.96     | 39532.36   | 11299     | 121084     | 141510     | 163037     | 424390    |
+| Praha   | 3+kk             | 826            | 139782.76     | 35400.75   | 24900     | 117896     | 139791     | 160075     | 471311    |
+| Brno    | 1+kk             | 132            | 123689.06     | 22618.46   | 59800     | 113131     | 120312     | 135208     | 211402    |
+| Brno    | 2+kk             | 173            | 116256.36     | 25436.20   | 54210     | 101666     | 118809     | 132682     | 196491    |
+| Brno    | 3+kk             | 129            | 113672.19     | 22680.38   | 65625     | 96352      | 112777     | 122717     | 175581    |
+| Ostrava | 1+kk             | 14             | 61898.88      | 21005.91   | 11791     | 50295      | 69465      | 74550      | 91829     |
+| Ostrava | 2+kk             | 34             | 68069.32      | 20144.36   | 8015      | 60581      | 69922      | 81783      | 94150     |
+| Ostrava | 3+kk             | 65             | 61510.07      | 21975.00   | 35691     | 46428      | 56578      | 72237      | 137121    |
+| Olomouc | 1+kk             | 65             | 105335.92     | 11596.10   | 85384     | 96861      | 103000     | 108285     | 137931    |
+| Olomouc | 2+kk             | 127            | 98282.63      | 13042.44   | 55600     | 91642      | 97483      | 103975     | 131276    |
+| Olomouc | 3+kk             | 86             | 97797.66      | 20422.12   | 50287     | 85200      | 96953      | 107066     |171081     |
