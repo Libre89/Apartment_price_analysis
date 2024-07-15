@@ -79,30 +79,3 @@ However, comparing apartment prices based on dispositions alone does not fully c
 | Olomouc | 1+kk             | 65             | 3430568.15    | 438650.42  |2020000    | 3150000    | 3400000    |3650000     |4490000    |
 | Olomouc | 2+kk             | 127            | 5463026.83    | 917005.06  |2780000    | 4925000    | 5390000    |5810375     |9776500    |
 | Olomouc | 3+kk             | 86             | 7797458.30    | 1984240.46 |4080000    | 6705000    |7467000     |8315000     |18990000   |
-
-XXX
-RATIO POČET BYTŮ NA POČET OBYVATEL !!!
-
-XXX
-
-The next chart is a boxplot showing the distribution of apartment prices in selected locations and dispositions. This boxplot allows us to quickly compare the price spread of apartments between different locations and types of dispositions and identify any trends or deviations.
-
-![Boxplot_of_flats](https://github.com/Libre89/Apartment_price_analysis/assets/101059017/9ab6d251-6e9d-46b0-b686-995f76f1a7a5)
-
-The following barplot shows average house prices with a 95% confidence interval.
-
-![Barplot_of_flats](https://github.com/Libre89/Apartment_price_analysis/assets/101059017/3ae8e20a-3333-44b1-974c-a7072c719d2b)
-
-The pointplot shows the same data as the previous boxplot, but it also shows a comparison of price growth for different apartment layouts. 
-
-![Pointplot_of_flats](https://github.com/Libre89/Apartment_price_analysis/assets/101059017/b81b90dc-8acd-4e7e-b254-ccc1fa9de57f)
-
-The following histogram with kernel density estimate (KDE) plot shows the the price per square meter of housing in the selected cities.
-
-![histplot_of_flats](https://github.com/Libre89/Apartment_price_analysis/assets/101059017/2747296f-2d1a-4727-9c7a-1401c3a825d8)
-
-# Conclusion 
-
-
-
-
