@@ -24,11 +24,12 @@ The user can customize the analysis parameters by modifying the selection of cit
 # Analysis 
 In this analysis, a full dataset analysis was used, examining all available data due to the dataset's manageable size, which did not necessitate sampling. This method ensures that the results are based on the entirety of the available information, thereby minimizing the risk of bias and providing the most accurate and comprehensive insights possible.
 
-A total of 3336 apartments were processed. However, some advertisements did not provide the price of the property and were therefore dropped from this analysis. The number of properties analyzed and the number of incompletely advertised properties are shown below.
-* Number of advertisements with a price: 3170
-* Number of advertisements without a price: 166
+A total of 3426 apartments were processed. However, some advertisements did not provide the price of the property and were therefore dropped from this analysis. The number of properties analyzed and the number of incompletely advertised properties are shown below.
+* Number of advertisements with a price: 3277
+* Number of advertisements without a price: 149
 
-![Overview_of_advertised_apartments](https://github.com/Libre89/Apartment_price_analysis/assets/101059017/57779619-1022-41b7-9d35-1cf321973ecb)
+![Overview_of_advertised_apartments](https://github.com/user-attachments/assets/65dfadbe-601e-4ada-8979-ff72b1a87f02)
+
 
 The following chart shows the number of advertised apartments  across selected locations, categorized by apartment dispositions. Prague has the highest number of advertised apartments for all dispositions, significantly higher compared to the other cities analyzed. Notably, Ostrava, despite being the third largest city in the Czech Republic, has the fewest advertisements, particularly for 1+kk and 2+kk apartments.
 
