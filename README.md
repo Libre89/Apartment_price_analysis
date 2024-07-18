@@ -40,7 +40,7 @@ The bar plot shows that Olomouc has the highest occupancy coefficients across al
 
 * occupancy coeffcient = number of availbe flat / population of the city
 
-![Barplot_coefficient_occupancy](https://github.com/user-attachments/assets/70fa2442-d11f-46a2-a624-59bd380792f4)
+![Barplot_coefficient_occupancy](https://github.com/user-attachments/assets/cee38a43-1e9a-48f8-bda7-deb64ca0114c)
 
 The next graph is a boxplot that clearly illustrates the distribution of apartment prices. This visualization helps to understand the spread of prices in each city, highlighting variations and outliers.
 
