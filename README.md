@@ -44,7 +44,7 @@ The bar plot shows that Olomouc has the highest occupancy coefficients across al
 
 The next graph is a boxplot that clearly illustrates the distribution of apartment prices. This visualization helps to understand the spread of prices in each city, highlighting variations and outliers.
 
-![Boxplot_of_flats](https://github.com/user-attachments/assets/28bac1c1-f2d3-4320-bbd4-e88274f7a3da)
+
 
 The following graph is also a boxplot but excludes outliers and presents the data from the previous graph in more detail.
 
