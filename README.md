@@ -44,23 +44,24 @@ The bar plot shows that Olomouc has the highest occupancy coefficients across al
 
 The next graph is a boxplot that clearly illustrates the distribution of apartment prices. This visualization helps to understand the spread of prices in each city, highlighting variations and outliers.
 
-
+![Boxplot_flats_price](https://github.com/user-attachments/assets/0d36020c-08bf-4618-8c5e-93b3d4332374)
 
 The following graph is also a boxplot but excludes outliers and presents the data from the previous graph in more detail.
 
-![Boxplot_of_flats_no_outliers](https://github.com/user-attachments/assets/4107743f-0133-4943-8ec5-bbeb7da4340d)
+![Boxplot_flats_price_no_outliers](https://github.com/user-attachments/assets/318a53ce-2fc6-4ac2-bbee-b01c3b8ef582)
 
 The following barplot shows average apartment prices. This barplot includes a 95% confidence interval for each average price, indicating the range within which we can be 95% confident that the true average lies. 
 
-![Barplot_of_flats](https://github.com/user-attachments/assets/0c4c39ae-9714-45ee-9d23-68cc23addee2)
+![Barplot_flats_price](https://github.com/user-attachments/assets/1a73c70e-0fec-4cbc-a377-375c0ed9fcf6)
 
 The pointplot shows the same data as the previous boxplot, but it also shows a comparison of price growth for different apartment layouts. The pointplot shows a near-linear trend in apartment prices increasing with larger flat types across all cities, with a slightly steeper rise between 2+kk and 3+kk apartments in Prague.
 
-![Pointplot_of_flats](https://github.com/user-attachments/assets/7767a186-57b4-4097-894d-d1e383dd80e2)
+![Pointplot_flats_price](https://github.com/user-attachments/assets/9f67c33e-a8d7-49f6-bb90-3d9abd271f1a)
 
 However, comparing apartment prices based on dispositions alone does not fully capture the price differences between cities. The following histogram with a Kernel Density Estimate (KDE) provides a more detailed view by showing the price per square meter of apartments in various cities.
 
-![histplot_of_flats](https://github.com/user-attachments/assets/9c2defa8-d8e7-4eb6-9fa9-7754ef5b9be6)
+![histplot_kde_price_distribution](https://github.com/user-attachments/assets/cba6d641-0113-4b88-a261-9d5309dafc25)
+
 
 ## Summary statistic
 * Price summary statistic
