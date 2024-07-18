@@ -62,6 +62,9 @@ However, comparing apartment prices based on dispositions alone does not fully c
 
 ![histplot_kde_price_distribution](https://github.com/user-attachments/assets/cba6d641-0113-4b88-a261-9d5309dafc25)
 
+The next graph is a barplot that depicts the mean price per square meter of apartments in different cities. This visualization allows us to compare the average cost of residential space
+
+![Barplot_price_sq_meter](https://github.com/user-attachments/assets/f33d3f2c-0c06-4434-90af-8e477b079f0f)
 
 ## Summary statistic
 * Price summary statistic
