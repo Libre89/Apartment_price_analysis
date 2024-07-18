@@ -1,0 +1,328 @@
+﻿;city;population
+1;Praha;1 384 732
+2;Brno;400 566
+3;Ostrava;284 765
+4;Plzeň;185 599
+5;Liberec;107 982
+6;Olomouc;102 293
+7;České Budějovice;97 377
+8;Hradec Králové;93 906
+9;Pardubice;92 362
+10;Ústí nad Labem;91 342
+11;Zlín;74 255
+12;Havířov;69 694
+13;Kladno;69 078
+14;Most;63 882
+15;Opava;55 600
+16;Jihlava;53 986
+17;Frýdek-Místek;53 938
+18;Teplice;50 959
+19;Karviná;49 724
+20;Karlovy Vary;49 353
+21;Chomutov;47 023
+22;Děčín;46 799
+23;Mladá Boleslav;46 428
+24;Jablonec nad Nisou;46 226
+25;Prostějov;43 563
+26;Přerov;41 661
+27;Česká Lípa;37 483
+28;Třebíč;34 797
+29;Tábor;34 370
+30;Třinec;34 266
+31;Znojmo;34 160
+32;Kolín;33 229
+33;Příbram;32 992
+34;Cheb;32 825
+35;Písek;30 986
+36;Trutnov;29 584
+37;Kroměříž;28 089
+38;Orlová;27 794
+39;Vsetín;25 255
+40;Šumperk;24 969
+41;Uherské Hradiště;24 933
+42;Břeclav;24 863
+43;Havlíčkův Brod;23 746
+44;Hodonín;23 657
+45;Chrudim;23 441
+46;Český Těšín;23 282
+47;Nový Jičín;22 993
+48;Litoměřice;22 983
+49;Klatovy;22 938
+50;Valašské Meziříčí;22 833
+51;Krnov;22 716
+52;Strakonice;22 522
+53;Litvínov;22 512
+54;Sokolov;22 155
+55;Kopřivnice;21 604
+56;Kutná Hora;21 556
+57;Beroun;21 272
+58;Jindřichův Hradec;20 747
+59;Žďár nad Sázavou;20 525
+60;Bohumín;20 519
+61;Vyškov;20 498
+62;Mělník;20 350
+63;Blansko;20 185
+64;Brandýs nad Labem-Stará Boleslav;20 073
+65;Náchod;20 036
+66;Jirkov;19 323
+67;Žatec;19 046
+68;Kralupy nad Vltavou;18 782
+69;Kadaň;18 165
+70;Louny;18 053
+71;Hranice;18 024
+72;Otrokovice;17 597
+73;Benešov;17 035
+74;Říčany;16 955
+75;Slaný;16 740
+76;Uherský Brod;16 444
+77;Pelhřimov;16 420
+78;Jičín;16 230
+79;Neratovice;16 217
+80;Rožnov pod Radhoštěm;16 151
+81;Svitavy;16 108
+82;Ostrov;15 825
+83;Rakovník;15 739
+84;Nymburk;15 510
+85;Dvůr Králové nad Labem;15 339
+86;Bruntál;15 244
+87;Poděbrady;15 156
+88;Česká Třebová;15 119
+89;Varnsdorf;14 716
+90;Bílina;14 580
+91;Turnov;14 502
+92;Tachov;14 468
+93;Rokycany;14 386
+94;Mariánské Lázně;14 225
+95;Klášterec nad Ohří;14 175
+96;Ústí nad Orlicí;14 098
+97;Milovice;13 920
+98;Zábřeh;13 444
+99;Hlučín;13 421
+100;Šternberk;13 264
+101;Český Krumlov;12 944
+102;Roudnice nad Labem;12 823
+103;Aš;12 783
+104;Krupka;12 779
+105;Chodov;12 649
+106;Jaroměř;12 541
+107;Čelákovice;12 463
+108;Vysoké Mýto;12 412
+109;Boskovice;12 190
+110;Vrchlabí;12 131
+111;Velké Meziříčí;11 627
+112;Holešov;11 556
+113;Vlašim;11 455
+114;Humpolec;11 447
+115;Rychnov nad Kněžnou;11 442
+116;Nový Bor;11 412
+117;Kuřim;11 400
+118;Prachatice;11 250
+119;Domažlice;11 155
+120;Uničov;11 151
+121;Rumburk;10 861
+122;Kyjov;10 799
+123;Sušice;10 783
+124;Frenštát pod Radhoštěm;10 676
+125;Veselí nad Moravou;10 623
+126;Jeseník;10 619
+127;Králův Dvůr;10 613
+128;Čáslav;10 512
+129;Litomyšl;10 493
+130;Jesenice;10 483
+131;Přelouč;10 137
+132;Lysá nad Labem;10 062
+133;Ivančice;9 971
+134;Frýdlant nad Ostravicí;9 923
+135;Nové Město na Moravě;9 904
+136;Lanškroun;9 849
+137;Moravská Třebová;9 715
+138;Litovel;9 689
+139;Hlinsko;9 577
+140;Mohelnice;9 572
+141;Studénka;9 309
+142;Nové Město nad Metují;9 304
+143;Tišnov;9 275
+144;Hostivice;9 155
+145;Chotěboř;9 096
+146;Nová Paka;9 060
+147;Roztoky;9 034
+148;Mnichovo Hradiště;8 950
+149;Polička;8 939
+150;Dobříš;8 867
+151;Lovosice;8 774
+152;Duchcov;8 685
+153;Choceň;8 662
+154;Štětí;8 609
+155;Hořice;8 587
+156;Příbor;8 402
+157;Červený Kostelec;8 299
+158;Třeboň;8 262
+159;Stříbro;8 145
+160;Semily;8 081
+161;Dubí;8 071
+162;Milevsko;8 040
+163;Bystřice pod Hostýnem;8 023
+164;Lipník nad Bečvou;7 961
+165;Šlapanice;7 952
+166;Hrádek nad Nisou;7 932
+167;Bystřice nad Pernštejnem;7 896
+168;Benátky nad Jizerou;7 877
+169;Rýmařov;7 862
+170;Týn nad Vltavou;7 850
+171;Hořovice;7 842
+172;Nejdek;7 785
+173;Rychvald;7 783
+174;Černošice;7 675
+175;Mikulov;7 638
+176;Kaplice;7 562
+177;Úvaly;7 504
+178;Vodňany;7 483
+179;Český Brod;7 423
+180;Petřvald;7 407
+181;Bílovec;7 401
+182;Frýdlant;7 388
+183;Vimperk;7 364
+184;Vratimov;7 360
+185;Odry;7 343
+186;Dačice;7 228
+187;Letovice;7 215
+188;Nový Bydžov;7 212
+189;Napajedla;7 172
+190;Slavkov u Brna;7 169
+191;Broumov;7 166
+192;Moravské Budějovice;7 135
+193;Sezimovo Ústí;7 109
+194;Soběslav;7 055
+195;Nýřany;6 960
+196;Bučovice;6 891
+197;Sedlčany;6 811
+198;Přeštice;6 804
+199;Holice;6 767
+200;Rosice;6 738
+201;Blatná;6 666
+202;Kravaře;6 655
+203;Staré Město;6 625
+204;Šenov;6 585
+205;Veselí nad Lužnicí;6 580
+206;Kraslice;6 573
+207;Dobruška;6 557
+208;Hulín;6 491
+209;Odolena Voda;6 455
+210;Světlá nad Sázavou;6 452
+211;Letohrad;6 445
+212;Dobřany;6 435
+213;Hustopeče;6 398
+214;Mimoň;6 378
+215;Chrastava;6 340
+216;Mníšek pod Brdy;6 334
+217;Podbořany;6 317
+218;Dubňany;6 234
+219;Slavičín;6 224
+220;Týniště nad Orlicí;6 187
+221;Kostelec nad Orlicí;6 178
+222;Hronov;6 096
+223;Pohořelice;6 071
+224;Železný Brod;6 065
+225;Tanvald;6 051
+226;Rousínov;5 962
+227;Žamberk;5 917
+228;Třebechovice pod Orebem;5 851
+229;Třešť;5 815
+230;Kojetín;5 790
+231;Františkovy Lázně;5 783
+232;Holýšov;5 726
+233;Týnec nad Sázavou;5 717
+234;Moravský Krumlov;5 707
+235;Šluknov;5 698
+236;Planá;5 692
+237;Nové Strašecí;5 684
+238;Modřice;5 656
+239;Kunovice;5 650
+240;Vítkov;5 641
+241;Lomnice nad Popelkou;5 635
+242;Hluboká nad Vltavou;5 597
+243;Chlumec nad Cidlinou;5 592
+244;Velká Bíteš;5 574
+245;Zubří;5 549
+246;Fulnek;5 516
+247;Úpice;5 500
+248;Hradec nad Moravicí;5 485
+249;Starý Plzenec;5 448
+250;Jilemnice;5 443
+251;Horní Slavkov;5 438
+252;Brumov-Bylnice;5 424
+253;Rudná;5 395
+254;Strážnice;5 361
+255;Stochov;5 354
+256;Bakov nad Jizerou;5 316
+257;Kosmonosy;5 304
+258;Trhové Sviny;5 284
+259;Jablunkov;5 257
+260;Polná;5 230
+261;Horšovský Týn;5 227
+262;Jílové u Prahy;5 227
+263;Unhošť;5 206
+264;Telč;5 185
+265;Horažďovice;5 142
+266;Kdyně;5 139
+267;Bor;5 132
+268;Česká Skalice;5 122
+269;Doksy;5 119
+270;Nýrsko;5 113
+271;Luhačovice;5 087
+272;Česká Kamenice;5 082
+273;Třemošná;5 051
+274;Skuteč;5 042
+275;Jílové;4 979
+276;Heřmanův Městec;4 960
+277;Pečky;4 889
+278;Vizovice;4 886
+279;Valašské Klobouky;4 880
+280;Oslavany;4 871
+281;Bechyně;4 838
+282;Ledeč nad Sázavou;4 832
+283;Bělá pod Bezdězem;4 827
+284;Náměšť nad Oslavou;4 825
+285;Chýně;4 817
+286;Protivín;4 799
+287;Vrbno pod Pradědem;4 752
+288;Pacov;4 749
+289;Zruč nad Sázavou;4 749
+290;Habartov;4 717
+291;Postoloprty;4 703
+292;Votice;4 688
+293;Lišov;4 687
+294;Bystřice;4 686
+295;Vamberk;4 676
+296;Chropyně;4 668
+297;Adamov;4 605
+298;Meziboří;4 587
+299;Bzenec;4 584
+300;Cvikov;4 558
+301;Osek;4 558
+302;Planá nad Lužnicí;4 556
+303;Klimkovice;4 536
+304;Vracov;4 502
+305;Kynšperk nad Ohří;4 496
+306;Bojkovice;4 403
+307;Sezemice;4 350
+308;Kostelec nad Labem;4 336
+309;Rožmitál pod Třemšínem;4 317
+310;Hluk;4 289
+311;Chlumec;4 280
+312;Uherský Ostroh;4 277
+313;Nová Role;4 244
+314;Slatiňany;4 221
+315;Hostinné;4 214
+316;Blovice;4 196
+317;Kostelec nad Černými lesy;4 194
+318;Horní Bříza;4 191
+319;Borovany;4 178
+320;Brušperk;4 157
+321;Police nad Metují;4 150
+322;Králíky;4 126
+323;Zdice;4 120
+324;Mnichovice;4 095
+325;Jaroměřice nad Rokytnou;4 085
+326;Rajhrad;4 070
+327;Přibyslav;4 041
