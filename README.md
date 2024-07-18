@@ -30,10 +30,9 @@ A total of 3426 apartments were processed. However, some advertisements did not 
 
 ![Overview_of_advertised_apartments](https://github.com/user-attachments/assets/65dfadbe-601e-4ada-8979-ff72b1a87f02)
 
-
 The following chart shows the number of advertised apartments  across selected locations, categorized by apartment dispositions. Prague has the highest number of advertised apartments for all dispositions, significantly higher compared to the other cities analyzed. Notably, Ostrava, despite being the third largest city in the Czech Republic, has the fewest advertisements, particularly for 1+kk and 2+kk apartments.
 
-![Number_of_advertised_apartments_in_selected_locations](https://github.com/Libre89/Apartment_price_analysis/assets/101059017/ea151214-a2d3-4897-b9c8-f09562926cd8)
+![Number_of_advertised_apartments_in_selected_locations](https://github.com/user-attachments/assets/06b6b4d0-95a7-4eb8-836f-f971c1fd4452)
 
 To provide a more meaningful analysis of apartment availability, a new graph has been created which depicts the occupancy coefficient (number of availbe flat / population of the city). This coefficient is calculated by dividing the number of available apartments by the population of each city, offering a clearer picture of apartment accessibility relative to city size.
 
@@ -41,7 +40,7 @@ The bar plot shows that Olomouc has the highest occupancy coefficients across al
 
 * occupancy coeffcient = number of availbe flat / population of the city
 
-![Barplot_coefficient_occupancy](https://github.com/user-attachments/assets/cd6a311e-a8f5-4cdf-9503-685180bbd75d)
+![Barplot_coefficient_occupancy](https://github.com/user-attachments/assets/70fa2442-d11f-46a2-a624-59bd380792f4)
 
 The next graph is a boxplot that clearly illustrates the distribution of apartment prices. This visualization helps to understand the spread of prices in each city, highlighting variations and outliers.
 
